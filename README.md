@@ -1,7 +1,8 @@
 ## Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f50394f9-1fc2-4689-a3b8-e8b058d871ed/deploy-status)](https://app.netlify.com/sites/dat-truong/deploys)
 
-## dat-truong portfolio
+⚡️ [Web](https://dat-truong.netlify.app)
+
 
 ## Features
 
@@ -48,7 +49,7 @@ From your command line, first clone Simplefolio:
 $ git clone https://github.com/cobidev/simplefolio
 
 # Move into the repository
-$ cd simplefolio
+$ cd portfolio
 
 # Remove the current origin repository
 $ git remote remove origin
