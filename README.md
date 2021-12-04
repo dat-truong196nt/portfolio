@@ -1,9 +1,6 @@
 ## Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f50394f9-1fc2-4689-a3b8-e8b058d871ed/deploy-status)](https://app.netlify.com/sites/dat-truong/deploys)
 
-⚡️ [Web](https://dat-truong.netlify.app)
-
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
